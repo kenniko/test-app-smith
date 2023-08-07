@@ -1,0 +1,210 @@
+{
+    "boxShadow": "none",
+    "widgetName": "Tabs1",
+    "isCanvas": true,
+    "dynamicPropertyPathList": [
+        {"key": "tabsObj.tab1.isVisible"},
+        {"key": "tabsObj.tab2.isVisible"}
+    ],
+    "displayName": "Tabs",
+    "iconSVG": "/static/media/icon.74a6d653.svg",
+    "topRow": 5.2,
+    "bottomRow": 51.6,
+    "parentRowSpace": 10,
+    "type": "TABS_WIDGET",
+    "hideCard": false,
+    "shouldScrollContents": false,
+    "animateLoading": true,
+    "parentColumnSpace": 7.8125,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 0,
+    "dynamicBindingPathList": [
+        {"key": "tabsObj.tab1.isVisible"},
+        {"key": "tabsObj.tab2.isVisible"},
+        {"key": "accentColor"}
+    ],
+    "children": [
+        {
+            "tabId": "tab1",
+            "boxShadow": "none",
+            "widgetName": "Canvas12",
+            "displayName": "Canvas",
+            "topRow": 0,
+            "bottomRow": 424,
+            "parentRowSpace": 1,
+            "type": "CANVAS_WIDGET",
+            "canExtend": true,
+            "hideCard": true,
+            "shouldScrollContents": false,
+            "minHeight": 330,
+            "useAutoLayout": true,
+            "parentColumnSpace": 1,
+            "dynamicTriggerPathList": [],
+            "leftColumn": 0,
+            "dynamicBindingPathList": [],
+            "positioning": "vertical",
+            "isDisabled": false,
+            "key": "pa49t0mol5",
+            "labelTextSize": "0.875rem",
+            "tabName": "Email",
+            "rightColumn": 187.5,
+            "detachFromLayout": true,
+            "widgetId": "8bpzgxqlkb",
+            "isVisible": true,
+            "version": 1,
+            "parentId": "br1knk1edc",
+            "renderMode": "CANVAS",
+            "isLoading": false,
+            "responsiveBehavior": "fill",
+            "borderRadius": "0px",
+            "flexLayers": [
+                {"children": [{
+                    "id": "v08j8p6ui0",
+                    "align": "start"
+                }]},
+                {"children": [{
+                    "id": "6wsn7ifb1a",
+                    "align": "start"
+                }]},
+                {"children": [{
+                    "id": "gal14m8oyi",
+                    "align": "start"
+                }]}
+            ]
+        },
+        {
+            "tabId": "tab2",
+            "boxShadow": "none",
+            "widgetName": "Canvas13",
+            "displayName": "Canvas",
+            "topRow": 0,
+            "bottomRow": 424,
+            "parentRowSpace": 1,
+            "type": "CANVAS_WIDGET",
+            "canExtend": true,
+            "hideCard": true,
+            "shouldScrollContents": false,
+            "minHeight": 340,
+            "useAutoLayout": true,
+            "parentColumnSpace": 1,
+            "dynamicTriggerPathList": [],
+            "leftColumn": 0,
+            "dynamicBindingPathList": [],
+            "positioning": "vertical",
+            "isDisabled": false,
+            "key": "pa49t0mol5",
+            "labelTextSize": "0.875rem",
+            "tabName": "Discord",
+            "rightColumn": 187.5,
+            "detachFromLayout": true,
+            "widgetId": "2l2pdxf5w4",
+            "isVisible": true,
+            "version": 1,
+            "parentId": "br1knk1edc",
+            "renderMode": "CANVAS",
+            "isLoading": false,
+            "responsiveBehavior": "fill",
+            "borderRadius": "0px",
+            "flexLayers": [
+                {"children": [{
+                    "id": "uc4qh7qazj",
+                    "align": "start"
+                }]},
+                {"children": [{
+                    "id": "ti6fucu8cj",
+                    "align": "start"
+                }]},
+                {"children": [{
+                    "id": "6jvctdl83k",
+                    "align": "end"
+                }]}
+            ]
+        },
+        {
+            "tabId": "tab7uw8urm6c4",
+            "boxShadow": "none",
+            "widgetName": "Canvas14",
+            "displayName": "Canvas",
+            "topRow": 1,
+            "bottomRow": 372.99999999999994,
+            "parentRowSpace": 1,
+            "type": "CANVAS_WIDGET",
+            "canExtend": false,
+            "hideCard": true,
+            "minHeight": 330,
+            "useAutoLayout": true,
+            "parentColumnSpace": 1,
+            "dynamicTriggerPathList": [],
+            "leftColumn": 0,
+            "dynamicBindingPathList": [],
+            "positioning": "vertical",
+            "key": "pa49t0mol5",
+            "labelTextSize": "0.875rem",
+            "tabName": "Basetext",
+            "rightColumn": 484.375,
+            "detachFromLayout": true,
+            "widgetId": "gtm8olwaf3",
+            "containerStyle": "none",
+            "isVisible": true,
+            "version": 1,
+            "parentId": "br1knk1edc",
+            "renderMode": "CANVAS",
+            "isLoading": false,
+            "responsiveBehavior": "fill",
+            "borderRadius": "0px",
+            "flexLayers": [
+                {"children": [{
+                    "id": "xo5o6tsowo",
+                    "align": "start"
+                }]},
+                {"children": [{
+                    "id": "kujiytcrpm",
+                    "align": "start"
+                }]}
+            ]
+        }
+    ],
+    "key": "p3ct3i0s24",
+    "flexVerticalAlignment": "end",
+    "labelTextSize": "0.875rem",
+    "rightColumn": 64,
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "br1knk1edc",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "defaultTab": "Basetext",
+    "shouldShowTabs": true,
+    "tabsObj": {
+        "tab7uw8urm6c4": {
+            "widgetId": "gtm8olwaf3",
+            "index": 0,
+            "id": "tab7uw8urm6c4",
+            "label": "Basetext",
+            "isVisible": true
+        },
+        "tab1": {
+            "widgetId": "8bpzgxqlkb",
+            "index": 1,
+            "label": "Email",
+            "id": "tab1",
+            "isVisible": "{{EmailSwitch.isSwitchedOn}}"
+        },
+        "tab2": {
+            "widgetId": "2l2pdxf5w4",
+            "index": 2,
+            "label": "Discord",
+            "id": "tab2",
+            "isVisible": "{{DiscordSwitch.isSwitchedOn}}"
+        }
+    },
+    "minWidth": 450,
+    "isVisible": true,
+    "version": 3,
+    "parentId": "jx9rffd3bc",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "responsiveBehavior": "fill",
+    "borderRadius": "0px",
+    "maxDynamicHeight": 9000,
+    "alignment": "center",
+    "minDynamicHeight": 4
+}

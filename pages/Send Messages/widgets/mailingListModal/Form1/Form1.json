@@ -1,0 +1,103 @@
+{
+    "boxShadow": "none",
+    "widgetName": "Form1",
+    "isCanvas": true,
+    "displayName": "Form",
+    "iconSVG": "/static/media/icon.ea3e08d1.svg",
+    "topRow": 5.2,
+    "bottomRow": 68.2,
+    "parentRowSpace": 10,
+    "type": "FORM_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "parentColumnSpace": 11.625,
+    "leftColumn": 0,
+    "children": [{
+        "boxShadow": "none",
+        "widgetName": "Canvas9",
+        "displayName": "Canvas",
+        "topRow": 0,
+        "bottomRow": 630,
+        "parentRowSpace": 1,
+        "type": "CANVAS_WIDGET",
+        "canExtend": false,
+        "hideCard": true,
+        "minHeight": 570,
+        "useAutoLayout": true,
+        "parentColumnSpace": 1,
+        "leftColumn": 0,
+        "positioning": "vertical",
+        "key": "1nem5ivnzf",
+        "labelTextSize": "0.875rem",
+        "rightColumn": 279,
+        "detachFromLayout": true,
+        "widgetId": "bypkgk3lvb",
+        "containerStyle": "none",
+        "isVisible": true,
+        "version": 1,
+        "parentId": "z301aebr94",
+        "renderMode": "CANVAS",
+        "isLoading": false,
+        "responsiveBehavior": "fill",
+        "borderRadius": "0px",
+        "flexLayers": [
+            {"children": [
+                {
+                    "id": "ny28o6opvd",
+                    "align": "end"
+                },
+                {
+                    "id": "1o77o80m15",
+                    "align": "end"
+                },
+                {
+                    "id": "x3zreyy1ts",
+                    "align": "end"
+                }
+            ]},
+            {"children": [{
+                "id": "mrpz1llcgj",
+                "align": "start"
+            }]},
+            {"children": [{
+                "id": "8hpw0pdrkg",
+                "align": "end"
+            }]},
+            {"children": [{
+                "id": "5lgjjs0ske",
+                "align": "end"
+            }]},
+            {"children": [{
+                "id": "njo5vg57xn",
+                "align": "end"
+            }]},
+            {"children": [
+                {
+                    "id": "6nyhrajlep",
+                    "align": "end"
+                },
+                {
+                    "id": "7o4c6pjol1",
+                    "align": "end"
+                }
+            ]}
+        ]
+    }],
+    "key": "e5whkugdv2",
+    "flexVerticalAlignment": "end",
+    "labelTextSize": "0.875rem",
+    "backgroundColor": "white",
+    "rightColumn": 64,
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "z301aebr94",
+    "minWidth": 450,
+    "isVisible": true,
+    "parentId": "3hf5kf8ryl",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "responsiveBehavior": "fill",
+    "borderRadius": "0px",
+    "maxDynamicHeight": 9000,
+    "alignment": "center",
+    "minDynamicHeight": 4
+}

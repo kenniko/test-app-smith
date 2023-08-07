@@ -1,0 +1,78 @@
+{
+    "boxShadow": "none",
+    "widgetName": "Statbox1Copy",
+    "isCanvas": true,
+    "displayName": "Stats Box",
+    "iconSVG": "/static/media/icon.382a7c7b.svg",
+    "topRow": 0,
+    "bottomRow": 11.200000000000001,
+    "parentRowSpace": 10,
+    "type": "STATBOX_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "parentColumnSpace": 18.0625,
+    "dynamicTriggerPathList": [],
+    "leftColumn": 0,
+    "dynamicBindingPathList": [],
+    "children": [{
+        "boxShadow": "none",
+        "widgetName": "Canvas8Copy",
+        "displayName": "Canvas",
+        "topRow": 0,
+        "bottomRow": 112.00000000000001,
+        "parentRowSpace": 1,
+        "type": "CANVAS_WIDGET",
+        "canExtend": false,
+        "hideCard": true,
+        "minHeight": 100,
+        "useAutoLayout": true,
+        "parentColumnSpace": 1,
+        "leftColumn": 0,
+        "positioning": "vertical",
+        "key": "he8asa5zlk",
+        "labelTextSize": "0.875rem",
+        "rightColumn": 289,
+        "detachFromLayout": true,
+        "widgetId": "0lv8p7me84",
+        "containerStyle": "none",
+        "isVisible": true,
+        "version": 1,
+        "parentId": "5w4y3vkoe3",
+        "renderMode": "CANVAS",
+        "isLoading": false,
+        "responsiveBehavior": "fill",
+        "borderRadius": "0px",
+        "flexLayers": [
+            {"children": [{
+                "id": "mq1eu1mkpb",
+                "align": "end"
+            }]},
+            {"children": [
+                {
+                    "id": "o580vz8c8d",
+                    "align": "start"
+                },
+                {
+                    "id": "udkvymy5cc",
+                    "align": "end"
+                }
+            ]}
+        ]
+    }],
+    "key": "e50ggjmboq",
+    "flexVerticalAlignment": "end",
+    "labelTextSize": "0.875rem",
+    "backgroundColor": "#FFFFFF",
+    "rightColumn": 64,
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "5w4y3vkoe3",
+    "isVisible": true,
+    "parentId": "xym9f9u5jf",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "responsiveBehavior": "fill",
+    "borderRadius": "0px",
+    "maxDynamicHeight": 9000,
+    "alignment": "start",
+    "minDynamicHeight": 4
+}
