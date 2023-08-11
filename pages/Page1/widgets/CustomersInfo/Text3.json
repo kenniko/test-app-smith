@@ -16,7 +16,7 @@
     "animateLoading": true,
     "overflow": "NONE",
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
-    "leftColumn": 44.52173913043478,
+    "leftColumn": 44.24691358024691,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -28,7 +28,7 @@
     "key": "v9sp30wwja",
     "flexVerticalAlignment": "end",
     "isDeprecated": false,
-    "rightColumn": 63.60248447204969,
+    "rightColumn": 63.20987654320987,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "0lu7mjn6kx",

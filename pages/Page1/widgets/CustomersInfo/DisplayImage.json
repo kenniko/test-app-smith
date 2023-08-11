@@ -23,7 +23,7 @@
     "flexVerticalAlignment": "end",
     "image": "{{CustomersTable.selectedRow.image}}",
     "isDeprecated": false,
-    "rightColumn": 44.52173913043478,
+    "rightColumn": 44.24691358024691,
     "objectFit": "contain",
     "widgetId": "o42d3uxo9k",
     "isVisible": true,

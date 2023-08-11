@@ -20,7 +20,7 @@
     "animateLoading": true,
     "dynamicTriggerPathList": [],
     "resetOnSubmit": true,
-    "leftColumn": 63.60248447204969,
+    "leftColumn": 63.20987654320987,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"},
@@ -35,7 +35,7 @@
     "labelTextSize": "0.875rem",
     "isRequired": false,
     "isDeprecated": false,
-    "rightColumn": 82.6832298136646,
+    "rightColumn": 82.17283950617283,
     "dynamicHeight": "FIXED",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "widgetId": "p7dc9fniu5",
